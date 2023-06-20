@@ -64,11 +64,19 @@ df2.shape
 sns.boxplot(x="age0",data=df2)
 ```
 ## OUTPUT
-![]()
-![]()
-![]()
-![]()
-![]()
+![](DS_MP-1.png)
+![](DS_MP-2.png)
+![](DS_MP-3.png)
+![](DS_MP-4.png)
+![](DS_MP-5.png)
+![](DS_MP-6.png)
+![](DS_MP-7.png)
+![](DS_MP-8.png)
+![](DS_MP-9.png)
+![](DS_MP-10.png)
+![](DS_MP-11.png)
+![](DS_MP-12.png)
+![](DS_MP-13.png)
 
 ## RESULT
 Hence the implementation of data analysis of alcohol consumption is detected successfully.
